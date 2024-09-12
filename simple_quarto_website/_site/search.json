@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites. # This is my Quarto Website Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sit amet ipsum venenatis, feugiat nibh et, iaculis mi. Donec dignissim quam sapien, sit amet consequat sem rutrum rutrum. Suspendisse fermentum aliquam augue sit amet semper."
+  },
+  {
+    "objectID": "index.html#part-2",
+    "href": "index.html#part-2",
+    "title": "simple_quarto_website",
+    "section": "PART 2",
+    "text": "PART 2\nSed mollis dui leo, ac porttitor felis placerat vitae. Fusce hendrerit vulputate dapibus. Mauris molestie nunc a massa pellentesque posuere ac quis neque. Nunc a dolor vel lorem mollis hendrerit ut at risus. Nulla facilisi. Ut hendrerit, lorem a tempor eleifend, turpis tortor semper eros, vel dictum lacus mi at sapien. Nulla eget sapien quis velit dictum auctor.\n\nPART 3\nVestibulum aliquam blandit nunc ac egestas. Fusce porttitor, dolor egestas condimentum convallis, magna orci tempor erat, sit amet mattis erat ex non orci. Ut odio augue, iaculis et nisi sit amet, imperdiet scelerisque ligula. Mauris pretium porta lectus id gravida. Curabitur mollis scelerisque tristique.\n\n\n\n\nColumn 1\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi.\n\n\n\nColumn 2\nVestibulum aliquam blandit nunc ac egestas. Fusce porttitor, dolor egestas condimentum convallis, magna orci tempor erat, sit amet mattis erat ex non orci. Ut odio augue, iaculis et nisi sit amet, imperdiet scelerisque ligula. Mauris pretium porta lectus id gravida. Curabitur mollis scelerisque tristique."
+  },
+  {
+    "objectID": "index.html#table-of-my-courses",
+    "href": "index.html#table-of-my-courses",
+    "title": "simple_quarto_website",
+    "section": "Table of my courses",
+    "text": "Table of my courses\nHere is a table of my courses\n\n\n\ncourse number\nclass time\nprofessor\n\n\n\n\nDSAN 5000\nTHU 3:30-6:00\nJeff\n\n\nDSAN 5100\nTUE 6:30-9:00\nJeff\n\n\nDSAN 6300\nMON 12:30-3:00\nIrina"
+  },
+  {
+    "objectID": "index.html#embedded-video",
+    "href": "index.html#embedded-video",
+    "title": "simple_quarto_website",
+    "section": "Embedded Video",
+    "text": "Embedded Video\nHere is a video of my puppy:"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "simple_quarto_website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThe website include a foot-note↩︎"
+  },
+  {
+    "objectID": "slides/slides.html#core-course",
+    "href": "slides/slides.html#core-course",
+    "title": "DSAN",
+    "section": "core course",
+    "text": "core course\n\nDASN 5000\nDSAN 5100"
+  },
+  {
+    "objectID": "slides/slides.html#elective-course",
+    "href": "slides/slides.html#elective-course",
+    "title": "DSAN",
+    "section": "elective course",
+    "text": "elective course\n\nDSAN 6300\nDSAN 5400"
+  },
+  {
+    "objectID": "slides/slides.html#image-1",
+    "href": "slides/slides.html#image-1",
+    "title": "DSAN",
+    "section": "Image 1",
+    "text": "Image 1\n\n\n\nDescription of Image 1"
+  },
+  {
+    "objectID": "slides/slides.html#image-2",
+    "href": "slides/slides.html#image-2",
+    "title": "DSAN",
+    "section": "Image 2",
+    "text": "Image 2\n\n\n\nDescription of Image 2\n\n\nthis is based on research done in(Sagiroglu and Sinanc 2013)"
+  },
+  {
+    "objectID": "slides/slides.html#python-chart",
+    "href": "slides/slides.html#python-chart",
+    "title": "DSAN",
+    "section": "python chart",
+    "text": "python chart\n\n\n\n\n\n\n\n\n\nSagiroglu, Seref, and Duygu Sinanc. 2013. “Big Data: A Review.” In 2013 International Conference on Collaboration Technologies and Systems (CTS), 42–47. IEEE."
+  }
+]

@@ -1,0 +1,76 @@
+(base) helen@helendeMacBook-Air ~ % git clone https://github.com/HailunMa1114/5000-lab-1.2.git
+Cloning into '5000-lab-1.2'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (3/3), done.
+(base) helen@helendeMacBook-Air ~ % touch commands.txt
+(base) helen@helendeMacBook-Air ~ % 
+
+
+(base) helen@helendeMacBook-Air simple_quarto_website % rm styles.css 
+(base) helen@helendeMacBook-Air simple_quarto_website % mkdir images
+(base) helen@helendeMacBook-Air simple_quarto_website % mkdir slides
+(base) helen@helendeMacBook-Air simple_quarto_website % quarto convert abou
+t.qmd
+Converted to about.ipynb
+(base) helen@helendeMacBook-Air simple_quarto_website % ls
+_quarto.yml     about.qmd       index.qmd       slides
+about.ipynb     images          reference.bib
+(base) helen@helendeMacBook-Air simple_quarto_website % more reference.bib
+@inproceedings{sagiroglu2013big,
+  title={Big data: A review},
+  author={Sagiroglu, Seref and Sinanc, Duygu},
+  booktitle={2013 international conference on collaboration technologies and systems (CTS)},
+set mark: ...skipping...
+@inproceedings{sagiroglu2013big,
+  title={Big data: A review},
+  author={Sagiroglu, Seref and Sinanc, Duygu},
+  booktitle={2013 international conference on collaboration technologies and systems (CTS)},
+...skipping...
+@inproceedings{sagiroglu2013big,
+  title={Big data: A review},
+  author={Sagiroglu, Seref and Sinanc, Duygu},
+  booktitle={2013 international conference on collaboration technologies and systems (CTS)},
+  pages={42--47},
+:  title={Big data: A review},
+  author={Sagiroglu, Seref and Sinanc, Duygu},
+  booktitle={2013 international conference on collaboration technologies and systems (CTS)},
+  pages={42--47},
+  year={2013},
+  organization={IEEE}
+}
+@book{wickham2023r,
+  title={R for data science},
+  author={Wickham, Hadley and {\c{C}}etinkaya-Rundel, Mine and Grolemund, Garrett},
+  year={2023},
+  publisher={" O'Reilly Media, Inc."}
+}
+~
+~
+~
+(END)  title={Big data: A review},
+  author={Sagiroglu, Seref and Sinanc, Duygu},
+  booktitle={2013 international conference on collaboration technologies and systems (CTS)},
+  pages={42--47},
+  year={2013},
+  organization={IEEE}
+}
+@book{wickham2023r,
+  title={R for data science},
+  author={Wickham, Hadley and {\c{C}}etinkaya-Rundel, Mine and Grolemund, Garrett},
+  year={2023},
+  publisher={" O'Reilly Media, Inc."}
+}
+
+
+
+
+
+
+
+
+
+
+
+

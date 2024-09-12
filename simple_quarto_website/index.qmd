@@ -1,0 +1,97 @@
+---
+title: "simple_quarto_website"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# This is my Quarto Website
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sit amet ipsum venenatis, feugiat nibh et, iaculis mi. Donec dignissim quam sapien, sit amet consequat sem rutrum rutrum. Suspendisse fermentum aliquam augue sit amet semper.
+
+## PART 2
+Sed mollis dui leo, ac porttitor felis placerat vitae. Fusce hendrerit vulputate dapibus. Mauris molestie nunc a massa pellentesque posuere ac quis neque. Nunc a dolor vel lorem mollis hendrerit ut at risus. Nulla facilisi. Ut hendrerit, lorem a tempor eleifend, turpis tortor semper eros, vel dictum lacus mi at sapien. Nulla eget sapien quis velit dictum auctor. 
+
+### PART 3
+Vestibulum aliquam blandit nunc ac egestas. Fusce porttitor, dolor egestas condimentum convallis, magna orci tempor erat, sit amet mattis erat ex non orci. Ut odio augue, iaculis et nisi sit amet, imperdiet scelerisque ligula. Mauris pretium porta lectus id gravida. Curabitur mollis scelerisque tristique. 
+
+::: {.columns}
+
+::: {.column width="50%"}
+### Column 1
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. 
+:::
+::: {.column width="50%"}
+### Column 2
+Vestibulum aliquam blandit nunc ac egestas. Fusce porttitor, dolor egestas condimentum convallis, magna orci tempor erat, sit amet mattis erat ex non orci. Ut odio augue, iaculis et nisi sit amet, imperdiet scelerisque ligula. Mauris pretium porta lectus id gravida. Curabitur mollis scelerisque tristique. 
+:::
+:::
+# Make a list
+Vestibulum aliquam blandit nunc ac egestas. Fusce porttitor, dolor egestas condimentum convallis, magna orci tempor erat, sit amet mattis erat ex non orci. Ut odio augue, iaculis et nisi sit amet, imperdiet scelerisque ligula. Mauris pretium porta lectus id gravida. Curabitur mollis scelerisque tristique.
+
+
+### Use of `ipsum lorem`
+
+This website offers the following key features:
+
+- Etiam elementum orci ut tincidunt eleifend.
+- Morbi aliquam, eros eu mattis blandit, neque neque faucibus urna, vitae convallis odio felis sed purus.
+- Donec auctor quam et commodo luctus. Quisque cursus odio id ex bibendum, ut interdum diam posuere. 
+- Maecenas euismod tincidunt est sit amet euismod. 
+
+
+# Table in Quarto Websit
+## Table of my courses
+
+Here is a table of my courses
+
+| course number  | class time    | professor |
+|----------------|---------------|-----------|
+| DSAN 5000      | THU 3:30-6:00 | Jeff      |
+| DSAN 5100      | TUE 6:30-9:00 | Jeff      |
+| DSAN 6300      | MON 12:30-3:00| Irina     |
+
+# Math equation
+### Inline Math Example
+The equation of a straight line in slope-intercept form is: $y = mx + b$ 
+
+### Non-Inline Math Example
+
+The area of a circle is calculated using the formula:
+$$
+A = \pi r^2
+$$
+
+# Footnote
+abc.[^1]
+
+[^1]: The website include a foot-note
+
+# Quote
+> "The only limit to our realization of tomorrow is our doubts of today." – Franklin D. Roosevelt
+
+# Embedded Images
+
+Here are pictures of my puppy:
+
+![Image 1](images/images1.png)
+![Image 2](images/images2.png)
+
+## Embedded Video
+Here is a video of my puppy:
+
+<iframe width="560" height="315" src="https://youtube.com/shorts/fdLa2AvRIdA?feature=shared" frameborder="0" allowfullscreen></iframe>
+
+# Mermaid diagram
+```{mermaid}
+flowchart LR
+A[Georgetown] --> B[DSAN]
+B --> C{First_semester_course}
+C --> D[DSAN_5000]
+C --> E[DSAN_5100]
+C --> F[DSAN_6300]
+```
+
+According to this source [@sagiroglu2013big]
+
+
+
